@@ -22,10 +22,10 @@ const Footer = () => {
 								<li class="mb-2">
 									<a href="https://www.instagram.com/" class="hover:underline">Muzakki</a>
 								</li>
-								<li>
+								<li class="mb-2">
 									<a href="https://www.instagram.com/" class="hover:underline">Putra</a>
 								</li>
-								<li>
+								<li class="mb-2">
 									<a href="https://www.instagram.com/" class="hover:underline">Prima</a>
 								</li>
 							</ul>
