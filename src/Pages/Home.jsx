@@ -47,7 +47,7 @@ const Home = () => {
 						WELCOME
 					</h1>
 					<h6 className="text-sm" style={{ letterSpacing: "5px" }}>
-						TO XI RPL
+						TO XII RPL SMK BATIK PERBAIK PURWOREJO
 					</h6>
 				</div>
 			</div>
